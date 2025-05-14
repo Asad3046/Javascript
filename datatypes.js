@@ -11,6 +11,7 @@ Types of datatypes
 5. null => standalone value
 6. undefined => 
 7. symbols => unique
+8. NaN => Not a Number
 */
 
 console.log(typeof age);
